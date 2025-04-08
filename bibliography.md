@@ -1,7 +1,7 @@
 ---
 title: Annotated Bibliography
 author: Nathaniel Klassen
-date: 2025-03-25
+date: 2025-04-08
 thanks: GAME 471
 ---
 
@@ -20,70 +20,3 @@ thanks: GAME 471
 **Penabella, Miguel. "Opened World: Standing Still." *Haywire Magazine*, December 9, 2018. <https://haywiremag.com/columns/opened-world-standing-still/>.** In Miguel Penabella's article, "Opened World: Standing Still," he talks about how the gameplay of *Night in the Woods* being aimless represents Mae's aimlessness in her life. As he points out, "The first few hours of the game call attention to Mae’s aimlessness. Night in the Woods is largely structured around short sequences and minigames involving acts of youthful mischief with Bea and accompanying friends Gregg and Angus." Penabella also says that the game "ultimately values empathy and effort," which I think is reflected in the fact that the main gameplay revolves around getting to know and doing stuff with the other characters. Relationship and friendship is a central theme in not only the game's story, but also its gameplay.
 
 **Veale, Kevin. "'If anyone's going to ruin your night, it should be you': Responsibility and affective materiality in *Undertale* and *Night in the Woods*." *Convergence: The International Journal of Research into New Media Technologies* 28, no. 2 (2022): 451-467. <https://doi.org/10.1177/13548565211014434>.** In his article, "'If anyone's going to ruin your night, it should be you': Responsibility and affective materiality in *Undertale* and *Night in the Woods*," Kevin Veale talks about how choices in video games often are meaningful and have consequences in the game. Because of this, players of video games tend to feel responsible for their choices, and can take those choices seriously, considering how they would feel if they were making those choices in real life (453-454). This is the case even if the choices being made are insignificant to the story or in general (454). He also mentions that from the intro of *Night in the Woods*, the player learns about who Mae is, and this is partially through the actions that the player is able to take (455). As the player connects with Mae, they can feel responsible for the choices that she makes, even if all of the options are bad (456). The game also only has one save slot and no autosaves, making choices feel more permanent (456).
-
-\newpage
-
-Notes:
-
-1 course book
-2 games criticism
-5 scholarly secondary
-
-
-
-https://www.critical-distance.com/
-
-https://gamestudies.org/
-
-https://www.academia.edu/
-
-https://www.researchgate.net/
-
-
-# Title
-
-Body
-
-Example of citing Nicolas Bourriaud, "Example quote."[^1] Bourriaud also said, "Here's another example."[^2]
-
-[^1]: Nicolas Bourriaud, *The Exform*, 2015, trans. Erik Butler (London, UK: Verso, 2016), 8.
-[^2]: Bourriaud, *The Exform*, 10.
-
-Example of another paragraph citing Dawn Saas, saying, "Some example quote."[^3] Another quote is, "This."[^4]
-
-[^3]: Dawn Saas, "'Night in the Woods' Is Soulful, Empathetic, and Too Real," *Waypoint*, March 2, 2017, <link>, n.p.
-[^4]: Saas, "'Night in the Woods'," n.p.
-
-Kevin Veale example, "Another quote."[^5] Bourriaud said: "This thing."[^6] And also Saas said, "Another thing."[^7] And also: "Blah."[^8]
-
-[^5]: Kevin Veale. "'If anyone's going to ruin your night, it should be you': Responsibility and affective materiality in *Undertale* and *Night in the Woods*," *Convergence: The International Journal of Research into New Media Technologies* 28, no. 2 (2022), 451-467, <link>.
-[^6]: Bourriaud, *The Exform*, 24.
-[^7]: Saas, "'Night in the Woods,'" n.p.
-[^8]: Veale, "'If anyone's going to ruin your night,'" 460.
-
-\newpage
-
-## References
-
-**Parikka, Jussi. *A Geology of Media*. Minneapolis, MN: University of Minnesota Press, 2015.** In *A Geology of Media*, Jussi Parikka argues that we need to approach the work of criticism from a perspective of "media materialism," which he describes as the "necessity to analyse media technologies as something that are irreducible to what we think of them or even how we use them" (1). In order to take this materialist approach to criticism, Parikka proposes the titular concept of a "*geology of media*" that includes the realms of cosmology and geology in the media-critical practice (3). When approaching *Night in the Woods* and its themes of cosmic insignificance, this approach to media allows us to get beyond superficial aesthetic trappings and think more deeply about the existential layers of existence that scaffold the narrative Infinite Fall set out to tell. (This paragraph was written by Eric Stein and I just copied it as an example).
-
-Saas, Dawn. "'Night in the Woods' Is Soulful, Empathetic, and Too Real." *Waypoint*, March 2, 2017. <link>.
-
-Fiorilli, Patrick. "Meet the New Boss, Same as the Old Gods: Reading *Night in the Woods* through Mark Fisher." *Game Studies* 22, no. 1 (March 2022). <link>.
-
-
-Bourriaud, Nicolas. *The Exform*. Translated by Erik Butler. London, UK: Verso, 2016.
-
-Rancière, Jacques. *The Politics of Aesthetics*. 2000. Translated by Gabriel Rockhill. London, UK: Bloomsbury, 2013.
-
-Parikka, Jussi. *A Geology of Media*. Minneapolis, MN: University of Minnesota Press, 2015.
-
-https://www.vice.com/en/article/night-in-the-woods-is-soulful-empathetic-and-too-real/
-
-https://kotaku.com/night-in-the-woods-treats-depression-like-a-part-of-lif-1797400607
-
-https://www.pastemagazine.com/games/night-in-the-woods/night-in-the-woods-and-nostalgia
-
-https://www.vice.com/en/article/searching-for-a-faith-during-a-night-in-the-woods/
-
-https://videoda.me/how-night-in-the-woods-guided-me-in-mourning-a-friend-2f60471ef013
