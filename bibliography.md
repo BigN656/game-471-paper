@@ -1,0 +1,89 @@
+---
+title: Annotated Bibliography
+author: Nathaniel Klassen
+date: 2025-03-25
+thanks: GAME 471
+---
+
+**Bourriaud, Nicolas. *The Exform*. Translated by Erik Butler. London, UK: Verso, 2016.** In his book, *The Exform*, Nicolas Bourriaud describes the *exform* as, "a point of contact, a 'socket' or 'plug', in the process of exclusion and inclusion - a sign that switches between centre and periphery, floating between dissidence and power" (x). The town that *Night in the Woods* takes place in, Possum Springs, exists in the realm of the *exformal*, being a dying, run-down town that only people with personal connections to the town have any reason to live in or even visit, essentially cut off from the rest of the world. The game itself acts as a virtual *exform*, in a way. Although Possum Springs is fictional, it represents various towns in this type of decay. The game allows the player to experience this type of *exformal* town, through Mae's experience, and it does this through its gameplay.
+
+**Butler, Madison. "Two Years Later, Night in the Woods is Still Relatable." *Sidequest*, May 28, 2019. <https://sidequest.zone/2019/05/28/two-years-later-night-in-the-woods-is-still-relatable/>.** Madison Butler discusses *Night in the Woods* in her article, "Two Years Later, Night in the Woods is Still Relatable." She mentions that *Night in the Woods* has no real goal or objectives to it. Most of the gameplay consists of just wandering around, getting to know the characters. She talks about how *Night in the Woods* "emphasizes the boring things, the routine, and frames it with the stress of being a . . . vulnerable person trying to exist in society." This is emphasized in its gameplay, where the player can do the same actions every day and develops a routine. She also talks about how *Night in the Woods* isn't a game that's "won." The ending doesn't resolve all of the characters' problems. As Butler puts it, "It's just a slice of Mae's life."
+
+**Consalvo, Mia and Andrew Phelps. "Getting through a Tough Day (Again): What Possum Springs Says about Mental Health and Social Class." *American Journal of Play* 12, no. 3 (2020): 338-362.** In the paper, "Getting through a Tough Day (Again): What Possum Springs Says about Mental Health and Social Class," Mia Consalvo and Andrew Phelps talk about how the architecture of games has both a functional gameplay purpose as well as being part of the game's setting and showing the history of the game's world and story (342-343). In *Night in the Woods*, the game's architecture functions as platforms for Mae to jump between, as locations to enter and interact with the people in town, or just as part of the game's setting and world with no gameplay function (346).
+
+**Keever, Justin. "The Unemployed Flâneur: The Weight of 'Playful' Walking in *Night in the Woods*." *After Work Conference*, 2019. <https://www.academia.edu/download/58571221/AfterWorkNITW.pdf>.** In his conference paper, "The Unemployed Flâneur: The Weight of 'Playful' Walking in *Night in the Woods*," Justin Keever discusses how *Night in the Woods* uses walking around as its central gameplay rather than as a utility to get from place to place (2). Letting the player walk around freely, as well as the fact that time essentially stays frozen until the player does something to move the story forward, represents Mae's relative freedom from responsibility; she doesn't want to get a job and is financially supported by her parents (1-2). Keever points out that, "Movement, for Mae, is pleasurable: there’s a bounciness to her animation, and when she jumps you can see the edges of her mouth curl into a smile" (2). Walking around is how Mae lives her life and has fun, and is also how the player plays the game and has fun.
+
+**Kreitler, Melanie. "Playing with the Narrative of Mental Illness: Communication Beyond Serious Empathy Games." *BiD* 52 (June 2024). <https://doi.org/10.1344/bid2024.52.03>.** Melanie Kreitler's paper, "Playing with the Narrative of Mental Illness: Communication Beyond Serious Empathy Games," discusses how *Night in the Woods* portrays mental illness. *Night in the Woods* emphasizes exploration, wandering around, and piecing together a story, which Kreitler argues, "serves as a metaphor for Mae's (re)construction of her life" (8). The player has a lot of freedom to choose what they do each day, like who to talk to and where to go. At the same time, the player has limited choices in dialogue, which don't change much about the outcome of the story. Kreitler observes that limiting the player's choices like this "puts players in the same mental space as Mae" (8). The choices in the game are also limited by Mae's personality. The player can't make choices that Mae wouldn't make (10). Kreitler also talks about how although *Night in the Woods* deals with some heavy and serious subjects, it's not all serious either. There are various comedic moments in the game. The comedy of some of these moments is enhanced by the gameplay, where you play minigames related to what's going on (9).
+
+**Mochocka, Aleksandra and Radosław Piotr Walczak. "Focalization, Subjectivity, and Magic(al) Realism in *Night in the Woods*." *Anglica Wratislaviensia* 61, no. 2 (2023): 77-92. <https://doi.org/10.19195/0301-7966.61.2.6>.** In the paper, "Focalization, Subjectivity, and Magic(al) Realism in *Night in the Woods*," Aleksandra Mochocka and Radosław Piotr Walczak discuss several ways that *Night in the Woods* tells its story. They discuss how repetition is used as a narrative mechanic (79). Repetition is not only used in the narrative, but the gameplay as well. The player follows the same routine for most of the game. They also mention that the beginning of the game starts out with the player moving right to left. This is significant because most 2D platformers have the player primarily moving from left to right. Since left to right movement usually represents moving forward, moving right to left represents Mae coming back to her past (80). Another aspect of the game that is pointed out is that the player is not free to explore wherever they want. They are restricted to a specific area. This is not only needed for the game to work, but also symbolizes how Mae feels trapped, just like many of the other characters in Possum Springs, though in Mae's case, she was able to leave, but felt like she had to come back (81). Through controlling Mae, the player can get to know who she is and relate to her by experiencing what she's experiencing and feeling what she's feeling through the choices they make, even though, in reality, they don't have much actual control over Mae's actions (85-6).
+
+**Penabella, Miguel. "Opened World: Standing Still." *Haywire Magazine*, December 9, 2018. <https://haywiremag.com/columns/opened-world-standing-still/>.** In Miguel Penabella's article, "Opened World: Standing Still," he talks about how the gameplay of *Night in the Woods* being aimless represents Mae's aimlessness in her life. As he points out, "The first few hours of the game call attention to Mae’s aimlessness. Night in the Woods is largely structured around short sequences and minigames involving acts of youthful mischief with Bea and accompanying friends Gregg and Angus." Penabella also says that the game "ultimately values empathy and effort," which I think is reflected in the fact that the main gameplay revolves around getting to know and doing stuff with the other characters. Relationship and friendship is a central theme in not only the game's story, but also its gameplay.
+
+**Veale, Kevin. "'If anyone's going to ruin your night, it should be you': Responsibility and affective materiality in *Undertale* and *Night in the Woods*." *Convergence: The International Journal of Research into New Media Technologies* 28, no. 2 (2022): 451-467. <https://doi.org/10.1177/13548565211014434>.** In his article, "'If anyone's going to ruin your night, it should be you': Responsibility and affective materiality in *Undertale* and *Night in the Woods*," Kevin Veale talks about how choices in video games often are meaningful and have consequences in the game. Because of this, players of video games tend to feel responsible for their choices, and can take those choices seriously, considering how they would feel if they were making those choices in real life (453-454). This is the case even if the choices being made are insignificant to the story or in general (454). He also mentions that from the intro of *Night in the Woods*, the player learns about who Mae is, and this is partially through the actions that the player is able to take (455). As the player connects with Mae, they can feel responsible for the choices that she makes, even if all of the options are bad (456). The game also only has one save slot and no autosaves, making choices feel more permanent (456).
+
+\newpage
+
+Notes:
+
+1 course book
+2 games criticism
+5 scholarly secondary
+
+
+
+https://www.critical-distance.com/
+
+https://gamestudies.org/
+
+https://www.academia.edu/
+
+https://www.researchgate.net/
+
+
+# Title
+
+Body
+
+Example of citing Nicolas Bourriaud, "Example quote."[^1] Bourriaud also said, "Here's another example."[^2]
+
+[^1]: Nicolas Bourriaud, *The Exform*, 2015, trans. Erik Butler (London, UK: Verso, 2016), 8.
+[^2]: Bourriaud, *The Exform*, 10.
+
+Example of another paragraph citing Dawn Saas, saying, "Some example quote."[^3] Another quote is, "This."[^4]
+
+[^3]: Dawn Saas, "'Night in the Woods' Is Soulful, Empathetic, and Too Real," *Waypoint*, March 2, 2017, <link>, n.p.
+[^4]: Saas, "'Night in the Woods'," n.p.
+
+Kevin Veale example, "Another quote."[^5] Bourriaud said: "This thing."[^6] And also Saas said, "Another thing."[^7] And also: "Blah."[^8]
+
+[^5]: Kevin Veale. "'If anyone's going to ruin your night, it should be you': Responsibility and affective materiality in *Undertale* and *Night in the Woods*," *Convergence: The International Journal of Research into New Media Technologies* 28, no. 2 (2022), 451-467, <link>.
+[^6]: Bourriaud, *The Exform*, 24.
+[^7]: Saas, "'Night in the Woods,'" n.p.
+[^8]: Veale, "'If anyone's going to ruin your night,'" 460.
+
+\newpage
+
+## References
+
+**Parikka, Jussi. *A Geology of Media*. Minneapolis, MN: University of Minnesota Press, 2015.** In *A Geology of Media*, Jussi Parikka argues that we need to approach the work of criticism from a perspective of "media materialism," which he describes as the "necessity to analyse media technologies as something that are irreducible to what we think of them or even how we use them" (1). In order to take this materialist approach to criticism, Parikka proposes the titular concept of a "*geology of media*" that includes the realms of cosmology and geology in the media-critical practice (3). When approaching *Night in the Woods* and its themes of cosmic insignificance, this approach to media allows us to get beyond superficial aesthetic trappings and think more deeply about the existential layers of existence that scaffold the narrative Infinite Fall set out to tell. (This paragraph was written by Eric Stein and I just copied it as an example).
+
+Saas, Dawn. "'Night in the Woods' Is Soulful, Empathetic, and Too Real." *Waypoint*, March 2, 2017. <link>.
+
+Fiorilli, Patrick. "Meet the New Boss, Same as the Old Gods: Reading *Night in the Woods* through Mark Fisher." *Game Studies* 22, no. 1 (March 2022). <link>.
+
+
+Bourriaud, Nicolas. *The Exform*. Translated by Erik Butler. London, UK: Verso, 2016.
+
+Rancière, Jacques. *The Politics of Aesthetics*. 2000. Translated by Gabriel Rockhill. London, UK: Bloomsbury, 2013.
+
+Parikka, Jussi. *A Geology of Media*. Minneapolis, MN: University of Minnesota Press, 2015.
+
+https://www.vice.com/en/article/night-in-the-woods-is-soulful-empathetic-and-too-real/
+
+https://kotaku.com/night-in-the-woods-treats-depression-like-a-part-of-lif-1797400607
+
+https://www.pastemagazine.com/games/night-in-the-woods/night-in-the-woods-and-nostalgia
+
+https://www.vice.com/en/article/searching-for-a-faith-during-a-night-in-the-woods/
+
+https://videoda.me/how-night-in-the-woods-guided-me-in-mourning-a-friend-2f60471ef013
